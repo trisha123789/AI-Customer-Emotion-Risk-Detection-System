@@ -1,4 +1,3 @@
-from tensorflow.keras.models import load_model
 import pickle
 import streamlit as st
 import numpy as np
@@ -11,7 +10,11 @@ with open("tokenizer.pkl", "rb") as f:
 with open("label_encoder.pkl","rb") as f:
     le = pickle.load(f)
 
-model = load_model('emotion_model.h5')
+with open("model.pkl", "rb") as f:
+    model = pickle.load(f)
+
+
+
 st.set_page_config("AI Emotion Detector", "🧠")
 st.title("🧠 AI Customer Emotion & Risk Detector")
 st.write("LSTM-based NLP system for real-world support analysis")
