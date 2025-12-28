@@ -1,0 +1,57 @@
+text,emotion,risk
+"I am angry now",angry,high
+My refund is still not processed,angry,high
+Money debited but order failed,angry,high
+Very poor customer support,angry,high
+No response from support team,angry,high
+I am extremely disappointed with the service,angry,high
+Charged twice for the same order,angry,high
+This is unacceptable customer service,angry,high
+Your agent disconnected the call,angry,high
+No resolution even after multiple complaints,angry,high
+Worst experience ever,angry,high
+Delivery delayed again,frustrated,medium
+App crashes every time I open it,frustrated,medium
+OTP not received for login,frustrated,medium
+Support team is slow to respond,frustrated,medium
+Facing login issues repeatedly,frustrated,medium
+Tracking status not updated,frustrated,medium
+Website is very slow today,frustrated,medium
+Payment page keeps loading,frustrated,medium
+Unable to apply discount coupon,frustrated,medium
+Chatbot is not helpful,frustrated,medium
+Thank you for resolving my issue,calm,low
+Problem solved quickly,calm,low
+Great customer experience,calm,low
+Everything works fine now,calm,low
+Good service overall,calm,low
+Happy with the support provided,calm,low
+Issue fixed within minutes,calm,low
+App is working smoothly now,calm,low
+Satisfied with the resolution,calm,low
+Appreciate your quick response,calm,low
+How to reset my password,neutral,low
+How can I track my order,neutral,low
+Where can I update my phone number,neutral,low
+What are your working hours,neutral,low
+How to contact support,neutral,low
+How to change my registered email,neutral,low
+Is cash on delivery available,neutral,low
+How to cancel my order,neutral,low
+Where can I download the invoice,neutral,low
+How to update my address,neutral,low
+I might stop using this app if this continues,angry,high
+I want my money back immediately,angry,high
+I will raise a legal complaint,angry,high
+This app is a fraud,angry,high
+Completely dissatisfied with your service,angry,high
+I have been waiting for days now,frustrated,medium
+No update from your side yet,frustrated,medium
+Still facing the same issue,frustrated,medium
+Support ticket is pending for long time,frustrated,medium
+Repeated issues with payments,frustrated,medium
+Thanks for your help today,calm,low
+Issue resolved after escalation,calm,low
+Customer care was polite,calm,low
+Received proper assistance,calm,low
+Service quality has improved,calm,low
